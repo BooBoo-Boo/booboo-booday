@@ -5,7 +5,7 @@ jobs:
     docker:
       - image: node:16
     resource_class: medium
-    parallelism: 4
+    parallelism: 1
     steps:
       - run: 
           command: |-
